@@ -5,6 +5,8 @@
 I am thrilled to share that I have just completed an intriguing data science project titled "Unemployment Analysis with Python"! 🎉 I invite you to explore the fascinating insights and findings that emerged from this project.
 
 📊 Project Overview:
+![image](https://github.com/Bakhtawar-123/Unemployment_Analysis_with_Python/assets/82812762/a320a5b1-9f45-4569-bd24-de0281ec7d03)
+
 In this project, I meticulously analyzed a comprehensive dataset containing 768 rows and 7 columns. Leveraging the power of Python and its robust data analysis libraries such as pandas and matplotlib, I embarked on a deep dive into the world of unemployment.
 
 🌍 Regional Analysis:
