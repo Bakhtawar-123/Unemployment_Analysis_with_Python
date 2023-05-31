@@ -24,9 +24,4 @@ Completing this project has not only expanded my expertise in data science but h
 🔗 Access the Project:
 If you're interested in delving deeper into this project or exploring the results in detail, I have made the project available on my GitHub repository. You can find the complete code, along with the dataset and comprehensive documentation, here: [https://github.com/Bakhtawar-123/Unemployment_Analysis_with_Python.git]
 
-🙏 Acknowledgments:
-I would like to express my heartfelt gratitude to the vibrant data science community for their continuous support and inspiration. It is through collaboration and the sharing of knowledge that we can make significant strides in leveraging data for meaningful insights.
 
-Stay tuned for more exciting projects and updates! 🚀🔬
-
-#DataScience #UnemploymentAnalysis #Python #DataInsights #GitHubPost
